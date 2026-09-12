@@ -1,0 +1,4 @@
+Não. O procesamento não diminui conforme a quantidade de threads aumenta, 
+não são grandezas inversamente proporcionais. 
+O número de threads deve ser ajustado para cada ocasião, 
+para obter assim o menor tempo de processamento.
